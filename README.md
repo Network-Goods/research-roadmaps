@@ -9,7 +9,6 @@ They:
 - sketch value flows in research networks, and highlight the paths of highest probability of impact and success,
 - identify co-funders and research teams to drive impact, 
 - highlight and de-risk points of attachment for bounties, Hypercerts, or retroactive funding.
-- 
 ![Master Slides 006](https://user-images.githubusercontent.com/5971336/232098010-33a966ab-d243-428c-b760-c047d859218e.jpeg)
 
 
