@@ -6,6 +6,7 @@
 
 **Research roadmaps** are goal-centered graph representations of a strategy to achieve research milestones, enriched with quantitative data to make funding decisions, and select research pathways to drive deterministic progress toward a goal. 
 They:
+- architect new research initiatives -- a new hypothesis to test, a problem to solve, or a new experiment to conduct
 - sketch value flows in research networks, and highlight the paths of highest probability of impact and success,
 - identify co-funders and research teams to drive impact, 
 - highlight and de-risk points of attachment for bounties, Hypercerts, or retroactive funding.
