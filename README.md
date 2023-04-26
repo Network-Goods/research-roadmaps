@@ -16,7 +16,7 @@ They:
 We want to:
 - make it easier for multiple groups to interact and collaborate via individual roadmaps, and connect research and product roadmaps to allocate resource and converge on the best research path to solve a problem that will lead to product improvements  in 6 months.
 - build a shared network of research goals, milestones and dependencies to bootstrap research collaborations and foster alignment between researchers and research funders.
-- bring the **open source mindset** to research roadmapping: promote immediate, continuous, and public sharing of research visions, goals and dependencies to enable others in the space to decide if, and how, they can collaborate or push others’ contributions forward. R
+- bring the **open source mindset** to research roadmapping: promote immediate, continuous, and public sharing of research visions, goals and dependencies to enable others in the space to decide if, and how, they can collaborate or push others’ contributions forward.
 ![Master Slides 005](https://user-images.githubusercontent.com/5971336/232098606-ef78d953-1c5d-464f-bb52-70e175331395.jpeg)
 
 
