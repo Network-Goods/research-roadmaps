@@ -25,10 +25,9 @@ This Epic/Initiative is done when:
 🥈 <base hope>
 
 - [ ] task
-- [ ] issue
-- [ ] issue
+- [ ] #issue
+- [ ] #issue
 
  ## References
  <!-- add any relevant  documents or links here --> 
-  
-  
+  - ...
