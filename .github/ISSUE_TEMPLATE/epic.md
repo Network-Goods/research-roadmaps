@@ -1,5 +1,5 @@
 ---
-name: Agile Epic
+name: Epic
 about: Issue for creating Agile Epics & Iniatives
 title: "[Epic] <title>"
 labels: 'Epic'
